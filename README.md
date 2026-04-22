@@ -40,4 +40,14 @@ if(p <= alpha){
 ### The null hypothesis was rejected, this means that there is a relationship bettween a driver making a pit stop and the lap number they pitted at.
 ### Finding the trend in that relationship can help to predict other teams pit stop window.
 
+## This image shows us the the trends of laptimes as a race prgresses, it is seperated by compound to display each tyres unique trend.
 ![Trends in laptime over race progress](Trends_in_laptime_over_race_progress.png)
+### This can help us to predict how tyre degradation and pit stop windows.
+
+## Our next visual goes along with the previous one. It shows the overall average laptime for each tyre compound.
+![Average laptime by tyre compound](Average_laptime_by_tyre_compound.png)
+### This is helpful in giving us a benchmark laptime to compare degredation to.
+
+## The final image shows us the overall average cumulative tyre degradation year by year for the time periods we have.
+![Average cumulative degradation by year](Average_cumulative_degradation_by_year.png)
+### Observing these trends we can see what year had the best degradation management, which can help in future decisions about car upgrades.
